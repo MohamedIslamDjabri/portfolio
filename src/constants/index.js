@@ -11,6 +11,15 @@ I am comfortable working independently or collaborating with others, and I enjoy
 
 export const PROJECTS = [
   {
+    title: "Image Generator",
+    image: "/projects/project-29.png",
+    description:
+      "An Ai Image Generator studio where you can upload an image and generate an ai copy .",
+    technologies: ["Next.js", "Prisma", "Typescirpt", "Tailwind","postgresql"],
+    liveLink: "https://image-studio-tau-eight.vercel.app",
+    githubLink: "https://github.com/MohamedIslamDjabri/image-studio",
+  },
+  {
     title: "Coding Platform",
     image: "/projects/project-1.png",
     description:
@@ -27,6 +36,15 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB","Express.js"],
     liveLink: "https://recipe-app-frontend-xi-seven.vercel.app",
     githubLink: "https://github.com/MohamedIslamDjabri/recipe-app",
+  },
+  {
+    title: "Dental Assistant",
+    image: "/projects/project-30.png",
+    description:
+      "An Ai Dental assistant for chatting and booking smar appointments .",
+    technologies: ["Next.js", "Prisma", "Typescirpt", "Tailwind","postgresql"],
+    liveLink: "https://dental-ai-two.vercel.app",
+    githubLink: "https://github.com/MohamedIslamDjabri/dental-ai",
   },
   {
     title: "E-commerce Store",
@@ -261,6 +279,15 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB","Express.js"],
     liveLink: "https://linkedin-clone-frontend-nu.vercel.app",
     githubLink: "https://github.com/MohamedIslamDjabri/linkedin-clone",
+  },
+  {
+    title: "Social media app",
+    image: "/projects/project-31.png",
+    description:
+      "A Social media app where you can connect with people and post your ideas .",
+    technologies: ["Next.js", "Prisma", "Typescirpt", "Tailwind","postgresql"],
+    liveLink: "https://social-app-livid-rho.vercel.app",
+    githubLink: "https://github.com/MohamedIslamDjabri/social-app",
   },
 ];
 
