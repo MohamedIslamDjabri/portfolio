@@ -65,6 +65,15 @@ export const PROJECTS = [
     githubLink: "https://github.com/MohamedIslamDjabri/admin-dashboard",
   },
   {
+    title: "Study planner app",
+    image: "/projects/project-32.png",
+    description:
+      "A premium study planner that organizes your tasks, schedules sessions, and gives you smart, data-driven suggestions to optimize your productivity.",
+    technologies: ["Next.js", "Prisma", "Typescirpt", "postgresql"],
+    liveLink: "https://focusflow-ten-mu.vercel.app",
+    githubLink: "https://github.com/MohamedIslamDjabri/focusflow",
+  },
+  {
     title: "Product App",
     image: "/projects/project-5.png",
     description:
@@ -276,7 +285,7 @@ export const PROJECTS = [
     image: "/projects/project-28.png",
     description:
       "A linkedin clone with all linkedin features .",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB","Express.js"],
+    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB", "Express.js"],
     liveLink: "https://linkedin-clone-frontend-nu.vercel.app",
     githubLink: "https://github.com/MohamedIslamDjabri/linkedin-clone",
   },
@@ -285,7 +294,7 @@ export const PROJECTS = [
     image: "/projects/project-31.png",
     description:
       "A Social media app where you can connect with people and post your ideas .",
-    technologies: ["Next.js", "Prisma", "Typescirpt", "Tailwind","postgresql"],
+    technologies: ["Next.js", "Prisma", "Typescirpt", "Tailwind", "postgresql"],
     liveLink: "https://social-app-livid-rho.vercel.app",
     githubLink: "https://github.com/MohamedIslamDjabri/social-app",
   },
